@@ -282,4 +282,11 @@ Services covering multiple countries are on the left; services covering one spec
 13: 3D imagery panos have both an equirectangular and a cubemap version; everything else is only available as cubemap  
 14: Non-3D imagery appears to use a synthetic depthmap created from elevation data and building footprints
 ## Docs
+
 https://streetlevel.readthedocs.io/en/master/streetlevel.baidu.html
+
+## Important Notice
+
+This open-source code is provided solely for scientific research.
+It must not be used for commercial purposes or for any illegal or unethical activity.
+Please comply with all applicable laws—any misuse is the sole responsibility of the user and is unrelated to the author.
